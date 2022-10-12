@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\font_alatsi.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\font\\alatsi.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurant_menu.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_row.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fsplash.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_fsplash.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_empty_profile.jpg.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\empty_profile.jpg"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_succeess.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_activity_main.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\nav_activity_main.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\content_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place_your_order.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\app_bar_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_bg.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_recycler_row.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main3_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\menu\\activity_main3_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodie_splash.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\foodie_splash.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_drawer.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\nav_header_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_order_recycler_row.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_restaurent.json.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\raw\\restaurent.json"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle.xml.flat",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\drawable\\ic_remove_circle.xml"
+    }
+]

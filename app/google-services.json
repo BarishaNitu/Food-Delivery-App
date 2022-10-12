@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "463912066645",
+    "project_id": "food-delivery-1a719",
+    "storage_bucket": "food-delivery-1a719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463912066645:android:69f9208211c3a05f32bedc",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463912066645-lh6o96lkfm96dfh6j7sr38a73rsq0e92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBln4yDxZOXk8ejIRGt-1WvD08c1pmBmAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463912066645-lh6o96lkfm96dfh6j7sr38a73rsq0e92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463912066645:android:805f3fb5c652bf6332bedc",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463912066645-dmh3r6i4182mlfctm86ingcmbgors8nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddelivery",
+            "certificate_hash": "c2c3a57ef3b2a1ba01274a23bb4a6023c2994520"
+          }
+        },
+        {
+          "client_id": "463912066645-lh6o96lkfm96dfh6j7sr38a73rsq0e92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBln4yDxZOXk8ejIRGt-1WvD08c1pmBmAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463912066645-lh6o96lkfm96dfh6j7sr38a73rsq0e92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

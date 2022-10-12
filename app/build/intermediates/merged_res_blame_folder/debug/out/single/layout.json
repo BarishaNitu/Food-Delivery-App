@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_row.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_drawer.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\content_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_restaurant_menu.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_recycler_row.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_activity_main.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\nav_activity_main.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place_your_order.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_order_succeess.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\register.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_drawer.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place_order_recycler_row.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_drawer.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\nav_header_drawer.xml"
+    },
+    {
+        "merged": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_drawer.xml",
+        "source": "F:\\FoodApp-main\\FoodApp-main\\FoodOrderApp\\app\\src\\main\\res\\layout\\app_bar_drawer.xml"
+    }
+]
